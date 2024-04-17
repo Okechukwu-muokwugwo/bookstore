@@ -39,7 +39,7 @@ git clone <code>https://github.com/apt2tell/bookstore.git</code>
 
 ## Author
 
-👤 Okechukwu Muokwugwo
+👤 Apt2tell
 
 - GitHub: [GitHub](https://github.com/apt2tell)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/apt2tell/)
